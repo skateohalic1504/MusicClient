@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/MusicClient/static/css/main.3668cdfb.chunk.css",
+    "main.js": "/MusicClient/static/js/main.3f3eadfc.chunk.js",
+    "main.js.map": "/MusicClient/static/js/main.3f3eadfc.chunk.js.map",
+    "runtime-main.js": "/MusicClient/static/js/runtime-main.bce95bd8.js",
+    "runtime-main.js.map": "/MusicClient/static/js/runtime-main.bce95bd8.js.map",
+    "static/css/2.5a49d65f.chunk.css": "/MusicClient/static/css/2.5a49d65f.chunk.css",
+    "static/js/2.ae4e97da.chunk.js": "/MusicClient/static/js/2.ae4e97da.chunk.js",
+    "static/js/2.ae4e97da.chunk.js.map": "/MusicClient/static/js/2.ae4e97da.chunk.js.map",
+    "static/js/3.9f0830da.chunk.js": "/MusicClient/static/js/3.9f0830da.chunk.js",
+    "static/js/3.9f0830da.chunk.js.map": "/MusicClient/static/js/3.9f0830da.chunk.js.map",
+    "index.html": "/MusicClient/index.html",
+    "static/css/2.5a49d65f.chunk.css.map": "/MusicClient/static/css/2.5a49d65f.chunk.css.map",
+    "static/css/main.3668cdfb.chunk.css.map": "/MusicClient/static/css/main.3668cdfb.chunk.css.map",
+    "static/js/2.ae4e97da.chunk.js.LICENSE.txt": "/MusicClient/static/js/2.ae4e97da.chunk.js.LICENSE.txt",
+    "static/media/adc.f0a7697a.jpeg": "/MusicClient/static/media/adc.f0a7697a.jpeg",
+    "static/media/adc2.e2cc716e.jpeg": "/MusicClient/static/media/adc2.e2cc716e.jpeg",
+    "static/media/banner.703ec2f7.jpg": "/MusicClient/static/media/banner.703ec2f7.jpg",
+    "static/media/jay1.3ac278ef.JPG": "/MusicClient/static/media/jay1.3ac278ef.JPG",
+    "static/media/la_dificil.e31eef73.jpeg": "/MusicClient/static/media/la_dificil.e31eef73.jpeg",
+    "static/media/logo.aa31ba71.png": "/MusicClient/static/media/logo.aa31ba71.png",
+    "static/media/ponte.3ca765eb.jpeg": "/MusicClient/static/media/ponte.3ca765eb.jpeg",
+    "static/media/sola.b0daddd0.jpeg": "/MusicClient/static/media/sola.b0daddd0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bce95bd8.js",
+    "static/css/2.5a49d65f.chunk.css",
+    "static/js/2.ae4e97da.chunk.js",
+    "static/css/main.3668cdfb.chunk.css",
+    "static/js/main.3f3eadfc.chunk.js"
+  ]
+}
